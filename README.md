@@ -5,3 +5,4 @@
 ## [Chapter 2 - On the Job with a Network Manager](c2.md)
 ## [Chapter 2.1 - Review of Information Network and Technology](c2.1.md)
 ## [Chapter 3 - The Basic Ingredients of Network Management](c3.md)
+## [Chapter 3.1 - Basic Foundations: Standards, Models, and Language](c3.1.md)
