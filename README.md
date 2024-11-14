@@ -7,3 +7,4 @@
 ## [Chapter 3 - The Basic Ingredients of Network Management](c3.md)
 ## [Chapter 3.1 - Basic Foundations: Standards, Models, and Language](c3.1.md)
 ## [Chapter 4 - IP-Based Service Implementation (Farrel Book)](c4.md)
+## [Chapter 5 - Network Management Architecture (Farrel Book)](c5.md)
